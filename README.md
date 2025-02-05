@@ -53,7 +53,7 @@ npm start
   **Buscar Reserva**
   requisição: `GET/reservas`
   
-  reposta:
+  resposta:
   ```json
   {
    "erro": false,
@@ -100,7 +100,7 @@ npm start
   }
   ```
 
-  reposta:
+  resposta:
   ```json
   {
     "erro": false,
