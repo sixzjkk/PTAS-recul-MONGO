@@ -28,6 +28,7 @@ npm start
 - **Alterar Reserva** (`PUT/reservas/:id`): altera uma reserva de acordo com o ID
 - **Deletar Reserva** (`DELETE/reservas/:id`): deleta uma reserva de acordo com o ID
 
+
   ### Exemplos de Rotas
 
   **Adicionar Reserva** (`POST/reservas`)
