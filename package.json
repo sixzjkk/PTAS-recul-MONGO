@@ -2,7 +2,7 @@
   "name": "ptas-recul-mongo",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "API com operações CRUD (Create, Read, Update e Delete) ligada ao banco de dados MongoDB.",
   "main": "index.js",
   "scripts": {
     "start": "node --watch app.js",
@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
-    "mongoose": "^8.9.7"
+    "mongoose": "^8.10.0"
   }
 }
